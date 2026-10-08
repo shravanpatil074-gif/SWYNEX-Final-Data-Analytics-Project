@@ -1,0 +1,20 @@
+SWYNEX TASK 4 – SUBMISSION CHECKLIST
+
+Repository name:
+SWYNEX-Final-Data-Analytics-Project
+
+Files to upload:
+1. SWYNEX_Final_Titanic_Analytics.xlsx
+2. Titanic_Cleaned_Data.csv
+3. README.md
+4. LinkedIn_Post.txt
+5. Optional: screenshots/ folder with dashboard screenshots
+
+Before submitting:
+- Make the GitHub repository public.
+- Open the GitHub repository in an Incognito/Private window.
+- Confirm the files open without permission requests.
+- Post the LinkedIn explanation with a screenshot or demo video.
+- Mention @SWYNEX Technologies.
+- Copy the GitHub repository URL into the Task 4 submission field.
+- Copy the LinkedIn post URL into the LinkedIn explanation field.

@@ -1,0 +1,11 @@
+Completed Task 4 of my SWYNEX internship journey! 🚀
+
+For my final Data Analytics Project, I worked on the Titanic dataset and combined data cleaning, exploratory analysis, Excel dashboarding, and key insights into one complete case study.
+
+I analyzed survival patterns based on gender, passenger class, age group, embarkation point, and family group, and presented the results through an interactive Excel dashboard.
+
+This project helped me strengthen my practical skills in data cleaning, analysis, visualization, and communicating insights.
+
+Thank you @SWYNEX Technologies for the learning opportunity!
+
+#SWYNEX #Internship #DataAnalytics #Excel #DataAnalysis #TitanicDataset #LearningJourney
